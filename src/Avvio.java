@@ -56,7 +56,7 @@ public class Avvio {
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.getContentPane().setLayout(null);
 		
-		JLabel Copyright = new JLabel("Telegram Spammer By Krestraj Kassandri aka Kit");
+		JLabel Copyright = new JLabel("Telegram Spammer By Kit");
 		Copyright.setForeground(Color.RED);
 		Copyright.setBounds(10, 0, 203, 31);
 		frame.getContentPane().add(Copyright);
